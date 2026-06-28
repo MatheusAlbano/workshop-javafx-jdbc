@@ -31,3 +31,6 @@ build/
 dist/
 nbdist/
 
+# Eclipse
+.settings/
+
